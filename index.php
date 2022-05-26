@@ -38,7 +38,7 @@ session_start();
 
 $setting_blog_name = 'smolBlog';			# Name of this blog
 $setting_blog_title = "<b>smolBlog</b><br>This is your new smolBlog installation.";	# In-line HTML that shows on top of the board
-$setting_admin_pass = 'CHANGEME2';	 		# Admin pass (CHANGE THIS ! ! ! )
+$setting_admin_pass = 'CHANGEME';	 		# Admin pass (CHANGE THIS ! ! ! )
 $setting_time_zone = 'America/New_York';	# Time zone
 
 ## FUNCTIONS
